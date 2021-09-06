@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>hello_world2</artifactId>
-    <version>${RELEASE_TAG}</version>
+    <version>${revision}</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
